@@ -149,5 +149,5 @@ def collectdata(listlength,repeattimes):
 
 savelast(testpoint,1)
 print(dt.now())
-collectdata(100,3)
+collectdata(20,3)
 print(dt.now())        
