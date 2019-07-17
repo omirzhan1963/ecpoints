@@ -1,2 +1,2 @@
 # ecpoints
- look for algorithm for  ec diskreet logariphm
+ look for algorithm for  ec discrete logarithm
