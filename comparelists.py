@@ -23,3 +23,6 @@ def compl(l1,l2):
             print("ooo")
         i=k
     return r
+l1=dfile("x.txt")
+l2=dfile("testx.txt")
+print(compl(l1,l2))

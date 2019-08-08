@@ -143,9 +143,9 @@ def collectdata(listlength,repeattimes):
         createlist(listlength)
 
 
-savelast(G,1)
+#savelast(G,1)
 print(dt.now())
-collectdata(100,3)
+collectdata(30,10)
 print(dt.now())        
     
 

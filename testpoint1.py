@@ -146,8 +146,8 @@ def collectdata(listlength,repeattimes):
     for i in range(repeattimes):
         createlist(listlength)
 
-
-savelast(testpoint,1)
+#
+#savelast(testpoint,1)
 print(dt.now())
-collectdata(20,3)
+collectdata(10,10)
 print(dt.now())        
